@@ -32,7 +32,7 @@ div.main {
       position: absolute;
       top: 0;
       left: 60px;
-      width: 100px;
+      width: 102px;
       -webkit-transform: translate(0, -100%);
               transform: translate(0, -100%);
       -webkit-filter: invert(1);
