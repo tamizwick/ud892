@@ -20,6 +20,7 @@
     "gulp-autoprefixer": "^6.0.0"
   },
   "dependencies": {
+    "gulp-concat": "^2.6.1",
     "gulp-sass": "^4.0.2"
   }
 }
